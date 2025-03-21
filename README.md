@@ -129,14 +129,6 @@ Contributions are welcome! :))
 
 ---
 
-## 📧 Contact
-
-For questions or collaborations, feel free to reach out:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
