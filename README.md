@@ -2,7 +2,7 @@
 
 This project implements a **Digital Twin** model for a **sewing machine in the textile industry**, utilizing simulated data from Engineering Technology (ET), Operational Technology (OT) and Information Technology (IT) to predict machine behavior and visualize critical performance metrics.
 
-This work was part of the **Techgium Challenge by L&T**, where the task was to develop a mathematical model for predicting machine requirements and analyzing real-time data to enhance performance.
+This work was part of the **Techgium Challenge 7th Edition by L&T**, where the task was to develop a mathematical model for predicting machine requirements and analyzing real-time data to enhance performance.
 
 ---
 
