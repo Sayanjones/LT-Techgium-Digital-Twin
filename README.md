@@ -144,6 +144,18 @@ We used multiple regression models to predict the behavior of the swing machine 
 └── 📄 README.md
 ```
 
+## 👨‍💻 **Authors**
+
+This project was developed by:
+
+1. **Sayan Hasan Mandal**  
+   - **Github** [Profile](https://github.com/Sayanjones)  
+   - **LinkedIn:** [Profile](https://www.linkedin.com/in/sayan-mandal7/)
+
+2. **Sayantan Banerjee**  
+   - **Github:** [Profile](https://github.com/sayantanbanerjee03) 
+   - **LinkedIn:** [Profile](https://www.linkedin.com/in/sayantan-banerjee-b2b22024a)
+     
 ---
 
 ## 🤝 Contributing
