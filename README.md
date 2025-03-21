@@ -1,6 +1,6 @@
 # Digital Twin(Swing Machine)
 
-This project implements a **Digital Twin** model for a **swing machine in the textile industry**, using simulated data for Engineering Technology (ET), Operational Technology (OT), and Information Technology (IT) to predict machine behavior and visualize key metrics.
+This project implements a **Digital Twin** model for a **sewing machine in the textile industry**, using simulated data for Engineering Technology (ET), Operational Technology (OT), and Information Technology (IT) to predict machine behavior and visualize key metrics.
 
 ---
 
