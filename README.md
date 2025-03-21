@@ -153,7 +153,7 @@ This project was developed by:
    - **LinkedIn:** [Profile](https://www.linkedin.com/in/sayantan-banerjee-b2b22024a)
 
 2. **Sayan Hasan Mandal**  
-   - **Github** [Profile](https://github.com/Sayanjones)  
+   - **Github:** [Profile](https://github.com/Sayanjones)  
    - **LinkedIn:** [Profile](https://www.linkedin.com/in/sayan-mandal7/)
      
 ---
