@@ -6,7 +6,7 @@ This work was part of the **Techgium Challenge 7th Edition by L&T**, where the t
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 ![Swing Machine Overview](swing-machine.jpg)
 
@@ -86,10 +86,6 @@ The dataset is generated using mathematical formulas to simulate ET, OT, and IT 
 4. **Visualization:**
    - Plots graphs for metrics like R-squared and MSE.
    - Displays bar graphs comparing target variables.
-
----
-
-To mention the models and their accuracy in the `README.md` file, follow this structure:
 
 ---
 
