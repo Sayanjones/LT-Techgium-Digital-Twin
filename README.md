@@ -4,7 +4,9 @@ This project implements a **Digital Twin** model for a **swing machine in the te
 
 ---
 
-## Project Overview
+## 📊 Project Overview
+
+![Swing Machine Overview](assets/swing-machine.png)
 
 - **Goal:** Build a model that predicts machine requirements and visualizes parameters like torque, speed, vibration, and power.
 - **Approach:**
