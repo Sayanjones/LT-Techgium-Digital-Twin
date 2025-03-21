@@ -112,7 +112,7 @@ The dataset is generated using mathematical formulas to simulate ET, OT, and IT 
 📦 swing-machine-digital-twin
 ├── 📂 data
 ├── 📂 models
-├── 📂 utils
+├── 📄 image
 ├── 📄 app.py
 ├── 📄 requirements.txt
 └── 📄 README.md
