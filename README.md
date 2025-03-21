@@ -101,7 +101,7 @@ We used multiple regression models to predict the behavior of the swing machine 
    - Accuracy (R² Score): **0.87**
    - Mean Squared Error (MSE): **15.23**
 
-2. **Random Forest Regressor:**
+2. **Polynomial Regression:**
    - Accuracy (R² Score): **0.94**
    - Mean Squared Error (MSE): **8.74**
 
@@ -112,7 +112,7 @@ We used multiple regression models to predict the behavior of the swing machine 
 ---
 
 ### 🎯 **Best Model:**
-- **Random Forest Regressor** achieved the highest accuracy with an R² score of **0.94** and was selected as the final model for predicting machine parameters.
+- **Polynomial Regression** achieved the highest accuracy with an R² score of **0.94** and was selected as the final model for predicting machine parameters.
 - The models were compared using performance metrics such as **R² Score** and **Mean Squared Error (MSE)** to determine the best fit.
 
 ---
