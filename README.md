@@ -155,7 +155,10 @@ This project was developed by:
 2. **Sayan Mandal**  
    - **Github:** [Profile](https://github.com/Sayanjones)  
    - **LinkedIn:** [Profile](https://www.linkedin.com/in/sayan-mandal7/)
-     
+
+3. **Vaibhav B**
+   - **Github:** NA 
+   - **LinkedIn:** NA
 ---
 
 ## 🤝 Contributing
